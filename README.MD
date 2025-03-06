@@ -25,7 +25,7 @@ O objetivo do exercício é praticar conceitos básicos de Node.js e TypeScript,
 - **`GET /drivers`**  
   Lista todos os motoristas.
 
-- **`GET /drivers/:id`**  
+- **`GET /driver/:id`**  
   Retorna os dados de um motorista específico com base no **ID**.
 
 ---
